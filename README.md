@@ -7,7 +7,9 @@
 
 If there is an audio signal on source <b>B</b>, it is played in the mix while source <b>A</b> is muted.
 Source <b>B</b> has priority over source <b>A</b>.
+Source <b>A</b> is active by default as the base source.
 The switch to source <b>A</b> occurs only when there is a signal on <b>A</b> and no signal on <b>B</b>.
+Argument <b>C</b> is optional. By default, it is set to 3 seconds, which is the minimum allowed value.
 
 <br><br>
 <p align="center">
