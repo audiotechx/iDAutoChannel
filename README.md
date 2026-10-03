@@ -5,10 +5,9 @@
 </blockquote>
 <br>
 
-If there is an audio signal on source <b>B</b>, it is played in the mix while source <b>A</b> is muted.
-Source <b>B</b> has priority over source <b>A</b>.
-After the utility starts, source <b>A</b>, as the base source, is set as the active source.
-The switch to source <b>A</b> occurs only when there is a signal on <b>A</b> and no signal on <b>B</b>.
+If there is an audio signal on source <b>B</b>, it is played in the mix while <b>A</b> is muted. 
+<b>B</b> has priority over <b>A</b>. After the utility starts, <b>A</b>, as the base source, is set as the active source. 
+The switch to <b>A</b> occurs only when there is a signal on <b>A</b> and no signal on <b>B</b>. 
 Argument <b>C</b> is optional. By default, it is set to 3 seconds, which is the minimum allowed value.
 
 <br><br>
